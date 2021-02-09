@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FE1B7C2D25D2E99D003EF7C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1B7C2C25D2E99D003EF7C5 /* AppDelegate.swift */; };
+		FE1B7C2D25D2E99D003EF7C5 /* GhostDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE1B7C2C25D2E99D003EF7C5 /* GhostDelegate.swift */; };
 		FE1B7C3425D2E99D003EF7C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE1B7C3225D2E99D003EF7C5 /* Main.storyboard */; };
 		FE1B7C3625D2E99E003EF7C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE1B7C3525D2E99E003EF7C5 /* Assets.xcassets */; };
 		FE1B7C3925D2E99E003EF7C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE1B7C3725D2E99E003EF7C5 /* LaunchScreen.storyboard */; };
@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		FE1B7C2925D2E99D003EF7C5 /* GhostDemoPods.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GhostDemoPods.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FE1B7C2C25D2E99D003EF7C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FE1B7C2C25D2E99D003EF7C5 /* GhostDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GhostDelegate.swift; sourceTree = "<group>"; };
 		FE1B7C3325D2E99D003EF7C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FE1B7C3525D2E99E003EF7C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE1B7C3825D2E99E003EF7C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		FE1B7C2B25D2E99D003EF7C5 /* GhostDemoPods */ = {
 			isa = PBXGroup;
 			children = (
-				FE1B7C2C25D2E99D003EF7C5 /* AppDelegate.swift */,
+				FE1B7C2C25D2E99D003EF7C5 /* GhostDelegate.swift */,
 				FE1B7C4325D2EA4F003EF7C5 /* HomeController.swift */,
 				FE1B7C4625D2EA59003EF7C5 /* SecondController.swift */,
 				FE1B7C3225D2E99D003EF7C5 /* Main.storyboard */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE1B7C4725D2EA59003EF7C5 /* SecondController.swift in Sources */,
-				FE1B7C2D25D2E99D003EF7C5 /* AppDelegate.swift in Sources */,
+				FE1B7C2D25D2E99D003EF7C5 /* GhostDelegate.swift in Sources */,
 				FE1B7C4425D2EA4F003EF7C5 /* HomeController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

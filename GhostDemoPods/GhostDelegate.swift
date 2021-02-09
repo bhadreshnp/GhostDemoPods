@@ -1,5 +1,5 @@
 //
-//  AppDelegate.swift
+//  GhostDelegate.swift
 //  GhostDemoPods
 //
 //  Created by Bhadresh Radadiya on 2021-02-09.
@@ -8,7 +8,7 @@
 import UIKit
 
 @main
-class AppDelegate: UIResponder, UIApplicationDelegate {
+class GhostDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
